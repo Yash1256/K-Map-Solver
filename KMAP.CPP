@@ -842,7 +842,7 @@ void Brdr(int b)
 			outtextxy(155,350,"� Devised By :");
 			setcolor(4);
 			settextstyle(COMPLEX_FONT,0,2);
-			outtextxy(288,350,"MANISH SHARMA");
+			outtextxy(288,350,"YASH SHUKLA");
 			outtextxy(288,375,"XII Science [C.S.]");
 			settextstyle(SIMPLEX_FONT,0,1);
 			setcolor(15);
@@ -863,7 +863,7 @@ void Brdr(int b)
 			outtextxy(155,350,"� Devised By :");
 			setcolor(4);
 			settextstyle(COMPLEX_FONT,0,2);
-			outtextxy(288,350,"MANISH SHARMA");
+			outtextxy(288,350,"YASH SHUKLA");
 			outtextxy(288,375,"XII Science [C.S.]");
 			settextstyle(SANS_SERIF_FONT,0,1);
 			setcolor(15);
